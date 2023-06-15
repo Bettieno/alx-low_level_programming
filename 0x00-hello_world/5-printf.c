@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
-*main - my first printf
+*main my first print
  * return: # (success)
  */
 int main(void)
 {
-	prIintf( "with proper grammar, but the outcome is a piece of art\n")
+	printf "("with proper grammar, but the outcome is a piece of art\n")"
 	return(0);
 }
