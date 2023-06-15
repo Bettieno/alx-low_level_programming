@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main Programming in c
+ * main .Programming in c
  * return: #(NELSON)
  */
 int main(void)
